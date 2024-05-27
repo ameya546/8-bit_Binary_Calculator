@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/ameya/School/COSC_2P12/Vivado_Projects/Calc/Calc/Calc.sim/sim_1/impl/timing/xsim/top_time_impl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module calculator
+INFO: [VRFC 10-311] analyzing module debouncer
+INFO: [VRFC 10-311] analyzing module debouncer_0
+INFO: [VRFC 10-311] analyzing module debouncer_1
+INFO: [VRFC 10-311] analyzing module debouncer_2
+INFO: [VRFC 10-311] analyzing module debouncer_3
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-311] analyzing module glbl
